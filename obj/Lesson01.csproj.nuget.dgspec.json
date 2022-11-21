@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Lesson01.csproj": {}
+    "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Trak01\\Lesson01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Lesson01.csproj": {
+    "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Trak01\\Lesson01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Lesson01.csproj",
+        "projectUniqueName": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Trak01\\Lesson01.csproj",
         "projectName": "Lesson01",
-        "projectPath": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Lesson01.csproj",
+        "projectPath": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Trak01\\Lesson01.csproj",
         "packagesPath": "C:\\Users\\Роман\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\obj\\",
+        "outputPath": "C:\\Users\\Роман\\Desktop\\обучение\\С#\\Lesson01\\Trak01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Роман\\AppData\\Roaming\\NuGet\\NuGet.Config"
